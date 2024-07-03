@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7cac9,100:92a8d1&height=300&section=header&text=WooJyu&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jiwon%27s%20GitHub%20Profile&descAlignY=58&descAlign=62"/>
 </p>
-
-
-
+<br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
@@ -37,4 +35,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>&nbsp
+    <br>
+    <br>
+    <br>
+    <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jday4612&theme=neon&show_icons=true&include_all_commits=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jday4612&theme=radical&layout=compact">
+    <br>
+    <br>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nalji7569">
 </p>
