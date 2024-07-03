@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Jday4612/Jday4612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7cac9,100:92a8d1&height=300&section=header&text=WooJyu&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jiwon%27s%20GitHub%20Profile&descAlignY=58&descAlign=62"/>
+</p>
+
+
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">
+</p>
